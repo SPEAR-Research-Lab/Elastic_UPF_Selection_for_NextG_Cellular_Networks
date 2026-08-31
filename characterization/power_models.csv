@@ -1,0 +1,5 @@
+tier,regime,alpha_w,beta_w_per_mbps,breakpoint_mbps
+far_edge_rpi,linear,4.176,0.00542,
+cloud_server,linear,248.981,0.010428,
+edge_nuc,low,9.576,0.034648,225.0
+edge_nuc,high,15.74,0.007071,225.0

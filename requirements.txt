@@ -1,0 +1,11 @@
+# Optimization framework
+numpy
+pandas
+networkx
+cvxpy
+# MILP solvers (each needs a license; free for academics)
+mosek
+gurobipy
+# Characterization analyzers 
+matplotlib
+scipy            # (optional) only if you extend the fitting
