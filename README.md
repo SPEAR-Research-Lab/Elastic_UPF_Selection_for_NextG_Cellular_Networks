@@ -27,6 +27,7 @@ booktitle = {Proceedings of the Tenth ACM/IEEE Symposium on Edge Computing},
 series = {SEC '26}
 }
 ```
+</details>
 
 ## Layout
 
