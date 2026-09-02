@@ -11,6 +11,22 @@ This repository contains:
 2. **`characterization/`** — the controlled cross-tier power/latency
    measurements from which the per-tier power models are derived.
 
+If you use this repository or dataset in your research, please cite our paper:
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@inbook{cech2026starlink,
+author = {Colocrese, Marco and Mohan, Nitinder and Iosifidis, Georgios and Kuipers, Fernando},
+title = {Elastic UPF Selection for NextG Cellular Networks},
+year = {2026},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+booktitle = {Proceedings of the Tenth ACM/IEEE Symposium on Edge Computing},
+series = {SEC '26}
+}
+```
 
 ## Layout
 
